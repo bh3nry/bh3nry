@@ -3,19 +3,18 @@
     <td valign="top" width="60%">
       <h1>Bren Funk</h1>
       <p>
-        <strong>Full-stack web/app developer</strong> · 
+        <strong>Full-stack web/app developer</strong>
+      </p>
+      Reach out to me:
         <a href="https://www.linkedin.com/in/brendyn-funk/">LinkedIn</a> |
         <a href="mailto:bfunk37@rrc.ca">Email</a>
       </p>
-      </ul>
+  <br>
+      <p>Every public repository here reflects something that either pushed me beyond my comfort zone or sparked real joy as I strive to become a better developer.
+      </p>
+      <p>Sharing my work publicly is a habit I’m trying to practice more intentionally. There are so many great ideas <i>(or almost ideas)</i> worth sharing, and I hope these projects can be useful to other developers   building on similar concepts. With that said, each repository represents a topic that’s had a real impact on me and my learning as I’ve grown to find my place in the world of software development.
+      </p>
       <br>
-      <h3>Hi, hello!</h3>
-      <p>
-        My name is Bren. Any public repository listed was a topic that either pushed me out of my comfort zone or facilitated joy in my endeavour to learn and enjoy the process of writing code.
-      </p>
-      <p>
-        Sharing any collection of work out in the open is an encouraging practice that I’m trying to be more mindful of, as there are so many great ideas that deserve platforming that other developers can build upon. With that said, any repository that you see here is an idea or topic that has positively impacted me and my learning journey into all things software development.
-      </p>
       <p>Thanks for being here!</p>
     </td>
     <td valign="top" width="50%">
@@ -28,12 +27,10 @@
 
 ## Log: Jan 21, 2026
 
-> My current area of interest is in exploring the fundamentals of data science and machine learning concepts, by figuring out ways in which I can apply that to my own life.
+> Right now, I’m focused on the fundamentals of data science and machine learning, and on applying those ideas in my own projects. One book that’s helped in shaping how I think about this is <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">**“Weapons of Math Destruction”**.</a> As AI becomes more prominent, I feel a responsibility to understand how models inherit bias and what developers can do to reduce its impact.
 >
-> A book that has been deeply fascinating on this topic is **“Weapons of Math Destruction”**. As AI continues to rise in prominence, I feel as though it is a deep responsibility to understand how models adopt certain biases, and how developers can mitigate against that.
 
 ### Related resources
-- *Source materials for this entry*
 - **[Solving a Million-Step LLM Task with Zero Errors (2025)](https://arxiv.org/abs/2511.09030)**
   - *Type:* Paper  
   - *Source:* arXiv:2511.09030
@@ -43,3 +40,4 @@
 - **[50 Days of Deep Learning](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)**
   - *Type:* Video Series  
   - *Source:* Misra Turp (YouTube)
+

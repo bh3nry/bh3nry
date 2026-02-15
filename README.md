@@ -10,10 +10,11 @@
         <a href="mailto:bfunk37@rrc.ca">Email</a>
       </p>
   <br>
-      <p>Every public repository here reflects something that either pushed me beyond my comfort zone or sparked real joy as I strive to become a better developer.
+      <p>Sharing my work publicly is a habit I’m trying to practice more intentionally. Any public repos listed here exist purely for the sake of fun, curiosity, or           as a means of pushing me out of my comfort zone.
       </p>
-      <p>Sharing my work publicly is a habit I’m trying to practice more intentionally. There are so many great ideas <i>(or almost ideas)</i> worth sharing, and I hope these projects can be useful to other developers   building on similar concepts. With that said, each repository represents a topic that’s had a real impact on me and my learning as I’ve grown to find my place in the world of software development.
+      <p>There are so many great ideas <i>(or almost ideas)</i> worth sharing; I hope these projects can be useful to other developers and create some visibility around making stuff for the sake of making stuff.
       </p>
+  <p>With that said, if you find any of this interesting, please feel free to reach out and share your thoughts.</p>
       <br>
       <p>Thanks for being here!</p>
     </td>
@@ -40,4 +41,5 @@
 - **[50 Days of Deep Learning](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)**
   - *Type:* Video Series  
   - *Source:* Misra Turp (YouTube)
+
 

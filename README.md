@@ -28,7 +28,9 @@
 
 ## Log: Jan 21, 2026
 
-> Right now, I’m focused on the fundamentals of data science and machine learning, and on applying those ideas in my own projects. One book that’s helped in shaping how I think about this is <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">**“Weapons of Math Destruction”**.</a> As AI becomes more prominent, I feel a responsibility to understand how models inherit bias and what developers can do to reduce its impact.
+> Right now, I'm focusing on the fundamentals of data science and machine learning, and applying those ideas in my own projects. One book that's helped shape how I think about this is <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">**“Weapons of Math Destruction”**.</a>
+>
+> As AI becomes more prominent, I feel a responsibility to understand how models inherit bias and what developers can do to reduce its impact.
 >
 
 ### Related resources
@@ -41,5 +43,6 @@
 - **[50 Days of Deep Learning](https://www.youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)**
   - *Type:* Video Series  
   - *Source:* Misra Turp (YouTube)
+
 
 

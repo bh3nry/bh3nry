@@ -10,7 +10,7 @@
       <p>With that said, if you find any of this interesting, please feel free to reach out and share your thoughts - better yet, correct me if I got something wrong!</p>
       Places on the internet that you can find me:
         <a href="https://www.linkedin.com/in/brendyn-funk/">LinkedIn</a> |
-        <a href="bh3nry.click">Blog</a>
+        <a href="https://www.bh3nry.click">Blog</a>
     </td>
     <td valign="top" width="50%">
       <br><br>
